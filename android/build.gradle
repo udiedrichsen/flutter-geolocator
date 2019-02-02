@@ -32,8 +32,6 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-
-    buildToolsVersion '28.0.2'
 }
 
 dependencies {

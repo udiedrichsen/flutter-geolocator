@@ -9,7 +9,8 @@ dependencies:
   flutter:
     sdk: flutter
   permission_handler: "^2.1.2"
-  google_api_availability: "^1.0.4"
+  google_api_availability:
+    git: https://github.com/udiedrichsen/flutter-google-api-availability
 dev_dependencies:
   flutter_test:
     sdk: flutter

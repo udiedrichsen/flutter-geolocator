@@ -1,3 +1,7 @@
+## [2.1.2]
+
+* buildToolsVersion removed
+
 ## [2.1.1]
 
 * Updated iOS code to Swift 4.2
